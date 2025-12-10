@@ -1,6 +1,6 @@
 # 🤖 Gabriel Alves
 
-Me chamo Gabriel Henrique de Souza Alves, tenho 23 anos e sou natural do Interior Paulista.Atualmente, estou cursando Matemática na Estácio e Técnico em desenvolvimento de sistemas na ETEC. Sou apaixonado por tecnologia/exatas.
+Me chamo Gabriel Henrique de Souza Alves, tenho 23 anos e sou natural do Interior Paulista.Atualmente trabalho como funcionário público, mas pretendo seguir o ramo da programação, estou cursando Matemática na Estácio e Técnico em desenvolvimento de sistemas na ETEC. Sou apaixonado por tecnologia/exatas.
 
 <p align="left">
     <!-- Discord -->
