@@ -1,16 +1,12 @@
 # 🤖 Gabriel Alves
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Alves!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
+
+
 Me chamo Gabriel Henrique de Souza Alves, tenho 23 anos e sou natural do Interior Paulista. Atualmente trabalho como funcionário público, mas pretendo seguir o ramo da programação, estou cursando Matemática na Estácio e Técnico em desenvolvimento de sistemas na ETEC. Sou apaixonado por tecnologia/exatas.
 
 <p align="left">
-    <!-- Discord -->
-    <a href="https://discord.com/users/gabrielhdalves">
-        <img 
-            alt="Discord" 
-            title="Me chame no Discord" 
-            src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        />
-    </a>
 <!-- YouTube -->
     <a href="https://www.youtube.com/@gabzlol12">
         <img 
